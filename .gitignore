@@ -1,0 +1,6 @@
+# Local helper files for the make.fun submission workflow; not part of the entry.
+muse-usage.jsonl
+prompt.txt
+bundle.tar.gz
+kit.tar.gz
+out/
